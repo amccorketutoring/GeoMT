@@ -1,4 +1,0 @@
-
-# geomt module
-
-::: geomt.geomt
