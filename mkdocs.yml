@@ -81,6 +81,8 @@ nav:
     - Report Issues: https://github.com/amccorketutoring/geomt/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/map.ipynb
+
     - API Reference:
           - geomt module: geomt.md
           - common module: common.md
