@@ -10,8 +10,10 @@
 
 -   Free software: MIT License
 -   Documentation: https://amccorketutoring.github.io/geomt
-    
+
 
 ## Features
 
--   TODO
+- Create interactive maps with minimal lines of code
+- Great tool for GIS
+- hello world
