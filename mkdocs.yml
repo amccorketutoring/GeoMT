@@ -82,8 +82,10 @@ nav:
     - Examples:
         - examples/intro.ipynb
         - examples/map.ipynb
+ features
     - Notebooks:
         - notebooks/demo_split_map.ipynb
+ main
 
     - API Reference:
           - geomt module: geomt.md
