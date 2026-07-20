@@ -2,7 +2,6 @@
 
 """Tests for `geomt` package."""
 
-
 import unittest
 
 from geomt import geomt
